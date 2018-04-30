@@ -26,12 +26,12 @@
 									"word_content": "Word1",
 									"analysis": [
 										{
-											"a1": "Word1 term",
+											"a1": "Term",
 											"a2": "Definition"
 										},
 										{
-											"a1": "Term",
-											"a2": "definition X"
+											"a1": "Term2",
+											"a2": "Definition 2"
 										}
 									]
 								}
