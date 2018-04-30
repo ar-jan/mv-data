@@ -54,6 +54,31 @@
 					}
 				}
 			]
+		},
+		{
+			"section_id": "B",
+			"row": [
+				{
+					"row_id": "1",
+					"row_content": {
+						"description": "Another row description",
+						"word": [
+							{
+								"word_group": {
+									"word_content": "My word",
+									"analysis": [
+										{
+											"a1": "A2",
+											"a2": "And A2"
+										}
+									]
+								}
+							}
+						],
+						"note": []
+					}
+				}
+			]
 		}
 	]
 }
