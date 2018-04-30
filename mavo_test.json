@@ -1,0 +1,35 @@
+{
+	"section": [
+		{
+			"section_id": "Section",
+			"row": [
+				{
+					"row_id": "1",
+					"row_content": {
+						"description": "Description of the first row",
+						"word": [
+							{
+								"word_content": {
+									"w1": "Word",
+									"analysis": [
+										{
+											"a1": "Analysis form 1",
+											"a2": "ABC"
+										},
+										{
+											"a1": "Another analysis",
+											"a2": "XYZ"
+										}
+									]
+								}
+							}
+						],
+						"note": [
+							"<p>A note about this row</p>"
+						]
+					}
+				}
+			]
+		}
+	]
+}
