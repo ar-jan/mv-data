@@ -1,7 +1,7 @@
 {
 	"section": [
 		{
-			"section_id": "Section",
+			"section_id": "A",
 			"row": [
 				{
 					"row_id": "1",
@@ -19,6 +19,19 @@
 										{
 											"a1": "Another analysis",
 											"a2": "XYZ"
+										}
+									]
+								},
+								"word_group": {
+									"word_content": "Word1",
+									"analysis": [
+										{
+											"a1": "Word1 term",
+											"a2": "Definition"
+										},
+										{
+											"a1": "Term",
+											"a2": "definition X"
 										}
 									]
 								}
