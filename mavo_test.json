@@ -35,6 +35,17 @@
 										}
 									]
 								}
+							},
+							{
+								"word_group": {
+									"word_content": "Word2",
+									"analysis": [
+										{
+											"a1": "Form1",
+											"a2": "Form2"
+										}
+									]
+								}
 							}
 						],
 						"note": [
