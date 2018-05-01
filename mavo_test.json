@@ -26,10 +26,13 @@
 									"word_content": "Word1",
 									"analysis": [
 										{
-											"a1": "Term",
-											"a2": "Definition"
+											"a1": "A1",
+											"a2": "A2"
 										},
-										{}
+										{
+											"a1": "More",
+											"a2": "And more"
+										}
 									]
 								}
 							},
@@ -37,7 +40,10 @@
 								"word_group": {
 									"word_content": "Word2",
 									"analysis": [
-										{}
+										{
+											"a1": "Item",
+											"a2": "Item2"
+										}
 									]
 								}
 							}
