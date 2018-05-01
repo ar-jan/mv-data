@@ -29,10 +29,7 @@
 											"a1": "Term",
 											"a2": "Definition"
 										},
-										{
-											"a1": "Term2",
-											"a2": "Definition 2"
-										}
+										{}
 									]
 								}
 							},
@@ -40,16 +37,13 @@
 								"word_group": {
 									"word_content": "Word2",
 									"analysis": [
-										{
-											"a1": "Form1",
-											"a2": "Form2"
-										}
+										{}
 									]
 								}
 							}
 						],
 						"note": [
-							"<p>A note about this row</p>"
+							"A note about this row."
 						]
 					}
 				}
@@ -67,10 +61,7 @@
 								"word_group": {
 									"word_content": "My word",
 									"analysis": [
-										{
-											"a1": "A2",
-											"a2": "And A2"
-										}
+										{}
 									]
 								}
 							}
